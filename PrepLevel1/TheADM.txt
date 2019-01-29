@@ -1,0 +1,50 @@
+The ADM : Architecture Development Model has 8 phases
+
+Phase A: Vision
+
+Phase B,C,D : Architecture of the 4 principal domains-
+				B- Business
+				D- Data
+				A- Application
+				T- Technology
+
+Phase E,F : Planning, creating a roadmap towards achieving the architecture
+
+Phase G: Implementation
+
+Phase H: Chage Management
+
+All phases A-H have a common activity called Requirement Management Phase Ongoing
+----------------------------------------------------------------------------------------
+
+
+
+Architecture Content Framework:
+
+Artifacts: 
+	Lists
+	Matrices
+	Diagrams
+
+Deliverable: Contractually specified and in turn formally reviewed, agreed and signed off by the stakeholders
+
+Building Block: 
+	Architecture Building Blocks (ABBs) : Named concepts that can be reused in multiple places.
+	Solution Building Blocks (SBBs) : The implementations of the ABBs.
+----------------------------------------------------------------------------------------
+
+
+Enterprise Continuum: A way to classify items in the architecture repository from extremly generic to extremenly specific. Usually represented as a line.
+
+
+Foundation 		<-->  Common System		<--> Industry		  <--> Organization Specific 
+Architecture  		  Architectures 		 Architectures		   Architectures
+
+
+Foundation : Extremely Generic, applies to almost all systems
+
+Common System :	Architecture which is generic at the same time a bit specific to the business domain.
+
+Industry : Follows industry standards of data transfer/exchange. for example financial firms, educational firms, etc
+
+Organization Specific : Properitory architecture, specific to an organization
